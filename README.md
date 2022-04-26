@@ -7,7 +7,7 @@ Siyu Heng and Pamela A. Shaw
 Siyu Heng (Email: <siyuheng@sas.upenn.edu>)
 
 ## Description
-**RIOM** is an R package for randomization inference with outcome misclassification, which allows the calculation of warning accuracy and sensitivity weights introduced in Heng and Shaw (2022).
+**RIOM** is an R package for randomization inference with outcome misclassification, which includes the calculation of warning accuracy and sensitivity weights introduced in Heng and Shaw (2022).
 
 Before installing this R package, please ensure that you have installed the following two R packages: **gurobi** and **mgcv**. To install package **RIOM** in R from GitHub, please run the following commands:
 
