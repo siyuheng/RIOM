@@ -1,7 +1,7 @@
 # RIOM: Randomization Inference with Outcome Misclassification
 
 ## Author
-Siyu Heng
+Siyu Heng and Pamela A. Shaw
 
 ## Maintainer
 Siyu Heng (Email: <siyuheng@sas.upenn.edu>)
