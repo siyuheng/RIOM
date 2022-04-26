@@ -17,4 +17,4 @@ library(devtools)
 install_github("siyuheng/RIOM")
 ```
 ## Reference
-Heng, S. and Shaw, P. A. (2022). ``A model-free and finite-population-exact framework for randomized experiments subject to outcome misclassification via integer programming." rXiv:2201.03111.
+Heng, S. and Shaw, P. A. (2022). ``A model-free and finite-population-exact framework for randomized experiments subject to outcome misclassification via integer programming." arXiv:2201.03111.
