@@ -2,7 +2,7 @@ Package: RIOM
 Type: Package
 Title: Randomization Inference with Outcome Misclassification
 Version: 0.1.0
-Author: Siyu Heng
+Author: Siyu Heng and Pamela A. Shaw
 Maintainer: Siyu Heng <siyuheng@sas.upenn.edu>
 Description: This R package is for randomization inference with outcome misclassification, which allows the calculation of warning accuracy and sensitivity weights.
 License: GPL-3
